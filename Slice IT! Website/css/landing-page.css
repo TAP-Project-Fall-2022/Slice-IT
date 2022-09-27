@@ -1,0 +1,280 @@
+/* screen - landing-page */
+
+.landing-page {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 3333px;
+  overflow: hidden;
+  padding: 1px 0;
+  width: 1440px;
+}
+
+.landing-page .overlap-group-container {
+  align-self: flex-start;
+  height: 765px;
+  margin-left: -100px;
+  margin-top: 13px;
+  position: relative;
+  width: 1615px;
+}
+
+.landing-page .overlap-group3 {
+  height: 760px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 1615px;
+}
+
+.landing-page .rectangle-27 {
+  background-color: var(--alto);
+  border: 1px solid;
+  border-color: var(--black-2);
+  height: 697px;
+  left: 0;
+  position: absolute;
+  top: 63px;
+  width: 1615px;
+}
+
+.landing-page .slice-it {
+  left: 54px;
+  letter-spacing: -1.60px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 442px;
+}
+
+.landing-page .overlap-group2 {
+  height: 54px;
+  left: 867px;
+  position: absolute;
+  top: 0;
+  width: 565px;
+}
+
+.landing-page .overlap-group {
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 563px;
+}
+
+.landing-page .group-1 {
+  height: 54px;
+  left: 16px;
+  position: absolute;
+  top: 0;
+  width: 547px;
+}
+
+.landing-page .our-team {
+  left: 0;
+  letter-spacing: -0.45px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 354px;
+}
+
+.landing-page .workshop {
+  left: 110px;
+  letter-spacing: -0.45px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  width: 354px;
+}
+
+.landing-page .vector {
+  height: 37px;
+  left: 493px;
+  position: absolute;
+  top: 7px;
+  width: 43px;
+}
+
+.landing-page .place {
+  left: 43px;
+  letter-spacing: -0.45px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+}
+
+.landing-page .vector-1 {
+  height: 26px;
+  left: 376px;
+  position: absolute;
+  top: 15px;
+  width: 52px;
+}
+
+.landing-page .what-is-slice-it {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-right: -51px;
+  margin-top: 115px;
+  min-height: 155px;
+  width: 1154px;
+}
+
+.landing-page .span1 {
+  letter-spacing: -4.80px;
+}
+
+.landing-page .span2 {
+  letter-spacing: -3.84px;
+}
+
+.landing-page .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 453px;
+  margin-left: 40.0px;
+  margin-top: 51px;
+  min-width: 1142px;
+}
+
+.landing-page .overlap-group5 {
+  height: 414px;
+  position: relative;
+  width: 442px;
+}
+
+.landing-page .rectangle-26 {
+  border: 1px none;
+  height: 338px;
+  left: 8px;
+  position: absolute;
+  top: 2px;
+  width: 335px;
+}
+
+.landing-page .vector-2 {
+  height: 414px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 442px;
+}
+
+.landing-page .lorem-ipsum-dolor-si {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 81px;
+  min-height: 383px;
+  width: 619px;
+}
+
+.landing-page .overlap-group7 {
+  height: 606px;
+  margin-left: 127.0px;
+  margin-top: 143px;
+  position: relative;
+  width: 1157px;
+}
+
+.landing-page .overlap-group4 {
+  height: 606px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1157px;
+}
+
+.landing-page .lorem-ipsum-dolor-si-1 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 222px;
+  width: 619px;
+}
+
+.landing-page .why-we-made-slice-it {
+  left: 3px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 1154px;
+}
+
+.landing-page .rectangle-28 {
+  border: 1px none;
+  height: 338px;
+  left: 8px;
+  position: absolute;
+  top: 136px;
+  width: 335px;
+}
+
+.landing-page .book-reader {
+  height: 322px;
+  left: 703px;
+  position: absolute;
+  top: 233px;
+  width: 334px;
+}
+
+.landing-page .overlap-group8 {
+  height: 653px;
+  margin-left: 93.0px;
+  margin-top: 149px;
+  position: relative;
+  width: 1197px;
+}
+
+.landing-page .overlap-group1 {
+  height: 653px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1197px;
+}
+
+.landing-page .how-we-made-slice-it {
+  left: 43px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 4px;
+  width: 1154px;
+}
+
+.landing-page .rectangle-29 {
+  border: 1px none;
+  height: 338px;
+  left: 29px;
+  position: absolute;
+  top: 0;
+  width: 335px;
+}
+
+.landing-page .vector-3 {
+  height: 434px;
+  left: 0;
+  position: absolute;
+  top: 219px;
+  width: 456px;
+}
+
+.landing-page .lorem-ipsum-dolor-si-2 {
+  left: 535px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 269px;
+  width: 619px;
+}
+
+.landing-page .anaya-yorke-joseph {
+  letter-spacing: 0;
+  margin-right: 90.0px;
+  margin-top: 114px;
+  min-height: 114px;
+  text-align: center;
+  width: 656px;
+}

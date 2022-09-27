@@ -1,0 +1,173 @@
+/* screen - workshop-page */
+
+.workshop-page {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2783px;
+  overflow: hidden;
+  padding: 1px 0;
+  width: 1440px;
+}
+
+.workshop-page .overlap-group-container {
+  align-self: flex-start;
+  height: 860px;
+  margin-left: -46px;
+  margin-top: 13px;
+  position: relative;
+  width: 1378px;
+}
+
+.workshop-page .overlap-group2 {
+  height: 855px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 1349px;
+}
+
+.workshop-page .rectangle-21 {
+  background-color: var(--alto);
+  border: 1px solid;
+  border-color: var(--black-2);
+  border-radius: 10px;
+  height: 758px;
+  left: 180px;
+  position: absolute;
+  top: 97px;
+  width: 1169px;
+}
+
+.workshop-page .slice-it {
+  left: 0;
+  letter-spacing: -1.60px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 442px;
+}
+
+.workshop-page .overlap-group1 {
+  height: 54px;
+  left: 813px;
+  position: absolute;
+  top: 0;
+  width: 565px;
+}
+
+.workshop-page .workshop {
+  left: 145px;
+  letter-spacing: -0.45px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 354px;
+}
+
+.workshop-page .place {
+  left: 78px;
+  letter-spacing: -0.45px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+}
+
+.workshop-page .vector {
+  height: 28px;
+  left: 411px;
+  position: absolute;
+  top: 15px;
+  width: 52px;
+}
+
+.workshop-page .overlap-group {
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 563px;
+}
+
+.workshop-page .group-1 {
+  height: 54px;
+  left: 16px;
+  position: absolute;
+  top: 0;
+  width: 547px;
+}
+
+.workshop-page .our-team {
+  left: 0;
+  letter-spacing: -0.45px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 354px;
+}
+
+.workshop-page .workshop-1 {
+  left: 110px;
+  letter-spacing: -0.45px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  width: 354px;
+}
+
+.workshop-page .vector-1 {
+  height: 37px;
+  left: 493px;
+  position: absolute;
+  top: 7px;
+  width: 43px;
+}
+
+.workshop-page .place-1 {
+  left: 43px;
+  letter-spacing: -0.45px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+}
+
+.workshop-page .vector-2 {
+  height: 26px;
+  left: 376px;
+  position: absolute;
+  top: 15px;
+  width: 52px;
+}
+
+.workshop-page .rectangle-20 {
+  background-color: var(--alto);
+  border: 1px solid;
+  border-color: var(--black-2);
+  border-radius: 10px;
+  height: 758px;
+  margin-left: 13.0px;
+  margin-top: 93px;
+  width: 1169px;
+}
+
+.workshop-page .rectangle-22 {
+  background-color: var(--alto);
+  border: 1px solid;
+  border-color: var(--black-2);
+  border-radius: 10px;
+  height: 758px;
+  margin-left: 13.0px;
+  margin-top: 114px;
+  width: 1169px;
+}
+
+.workshop-page .anaya-yorke-joseph {
+  letter-spacing: 0;
+  margin-left: 8.0px;
+  margin-top: 71px;
+  min-height: 114px;
+  text-align: center;
+  width: 656px;
+}

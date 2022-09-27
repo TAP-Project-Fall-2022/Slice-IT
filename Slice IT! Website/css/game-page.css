@@ -1,0 +1,114 @@
+/* screen - game-page */
+
+.game-page {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 1024px;
+  overflow: hidden;
+  padding: 14px 0;
+  width: 1440px;
+}
+
+.game-page .overlap-group-container {
+  height: 937px;
+  margin-left: -46px;
+  position: relative;
+  width: 1378px;
+}
+
+.game-page .overlap-group2 {
+  height: 932px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 1362px;
+}
+
+.game-page .rectangle-18 {
+  background-color: var(--alto);
+  border: 1px solid;
+  border-color: var(--black-2);
+  border-radius: 10px;
+  height: 837px;
+  left: 149px;
+  position: absolute;
+  top: 95px;
+  width: 1213px;
+}
+
+.game-page .slice-it {
+  left: 0;
+  letter-spacing: -1.60px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 442px;
+}
+
+.game-page .overlap-group1 {
+  height: 54px;
+  left: 813px;
+  position: absolute;
+  top: 0;
+  width: 565px;
+}
+
+.game-page .overlap-group {
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 563px;
+}
+
+.game-page .group-1 {
+  height: 54px;
+  left: 16px;
+  position: absolute;
+  top: 0;
+  width: 547px;
+}
+
+.game-page .our-team {
+  left: 0;
+  letter-spacing: -0.45px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 354px;
+}
+
+.game-page .workshop {
+  left: 110px;
+  letter-spacing: -0.45px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  width: 354px;
+}
+
+.game-page .vector {
+  height: 37px;
+  left: 493px;
+  position: absolute;
+  top: 7px;
+  width: 43px;
+}
+
+.game-page .place {
+  left: 43px;
+  letter-spacing: -0.45px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+}
+
+.game-page .vector-1 {
+  height: 26px;
+  left: 376px;
+  position: absolute;
+  top: 15px;
+  width: 52px;
+}
