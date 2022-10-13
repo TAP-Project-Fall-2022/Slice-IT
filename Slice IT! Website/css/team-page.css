@@ -130,7 +130,7 @@
   display: flex;
   height: 457px;
   margin-left: 4.0px;
-  margin-top: 87px;
+  margin-top: -150px;
   min-width: 1070px;
 }
 
@@ -148,9 +148,9 @@
   border: 1px solid;
   border-color: var(--black-2);
   border-radius: 15px;
-  height: 338px;
+  height: 300px;
   margin-left: 3px;
-  width: 401px;
+  width: 300px;
 }
 
 .team-page .lorem-ipsum {
