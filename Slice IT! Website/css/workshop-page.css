@@ -34,11 +34,11 @@
   border: 1px solid;
   border-color: var(--black-2);
   border-radius: 10px;
-  height: 758px;
+  height: 700px;
   left: 180px;
   position: absolute;
-  top: 97px;
-  width: 1169px;
+  top: 70px;
+  width: 1190px;
 }
 
 .workshop-page .slice-it {
@@ -141,27 +141,6 @@
   width: 52px;
 }
 
-.workshop-page .rectangle-20 {
-  background-color: var(--alto);
-  border: 1px solid;
-  border-color: var(--black-2);
-  border-radius: 10px;
-  height: 758px;
-  margin-left: 13.0px;
-  margin-top: 93px;
-  width: 1169px;
-}
-
-.workshop-page .rectangle-22 {
-  background-color: var(--alto);
-  border: 1px solid;
-  border-color: var(--black-2);
-  border-radius: 10px;
-  height: 758px;
-  margin-left: 13.0px;
-  margin-top: 114px;
-  width: 1169px;
-}
 
 .workshop-page .anaya-yorke-joseph {
   letter-spacing: 0;
