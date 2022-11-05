@@ -29,15 +29,16 @@
   width: 1615px;
 }
 
-video {
+.landing-page .coolgif IMG{
   background-color: var(--alto);
-  border: 1px solid;
+  border: 0px solid;
   border-color: var(--black-2);
-  height: 697px;
-  left: 0;
+  height: 700px;
   position: absolute;
+  right: 200px;
   top: 63px;
-  width: 1615px;
+  width: 2300px;
+ max-width: fit-content; 
 }
 
 .landing-page .slice-it {
