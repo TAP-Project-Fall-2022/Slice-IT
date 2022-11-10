@@ -26,7 +26,7 @@
   width: 1362px;
 }
 
-.shape-page .rectangle-18 {
+.shape-page .rectangle-18 iframe{
   background-color: var(--alto);
   border: 1px solid;
   border-color: var(--black-2);
