@@ -176,11 +176,12 @@
   width: 408px;
 }
 
-.team-page .rectangle-31-1 {
+.team-page .rectangle-31-1 img{
   background-color: var(--alto);
   border: 1px solid;
   border-color: var(--black-2);
   border-radius: 15px;
+  margin-left: 3px;
   height: 300px;
   width: 300px;
 }
@@ -210,7 +211,7 @@
   min-width: 1070px;
 }
 
-.team-page .rectangle-31-2 {
+.team-page .rectangle-31-2 img{
   background-color: var(--alto);
   border: 1px solid;
   border-color: var(--black-2);
